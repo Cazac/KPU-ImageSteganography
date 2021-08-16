@@ -1,0 +1,9 @@
+C:\Users\Zac Boot\documents\visual studio 2015\Projects\Digital Forensics - Stenography App\Digital Forensics - Stenography App\obj\Release\Digital_Forensics___Stenography_App.MainForm.resources
+C:\Users\Zac Boot\documents\visual studio 2015\Projects\Digital Forensics - Stenography App\Digital Forensics - Stenography App\obj\Release\Digital Forensics - Stenography App.csproj.GenerateResource.Cache
+C:\Users\Zac Boot\documents\visual studio 2015\Projects\Digital Forensics - Stenography App\Digital Forensics - Stenography App\bin\Release\Digital Forensics - Steganography App.exe.config
+C:\Users\Zac Boot\documents\visual studio 2015\Projects\Digital Forensics - Stenography App\Digital Forensics - Stenography App\bin\Release\Digital Forensics - Steganography App.exe
+C:\Users\Zac Boot\documents\visual studio 2015\Projects\Digital Forensics - Stenography App\Digital Forensics - Stenography App\bin\Release\Digital Forensics - Steganography App.pdb
+C:\Users\Zac Boot\documents\visual studio 2015\Projects\Digital Forensics - Stenography App\Digital Forensics - Stenography App\obj\Release\Digital_Forensics___Steganography_App.Properties.Resources.resources
+C:\Users\Zac Boot\documents\visual studio 2015\Projects\Digital Forensics - Stenography App\Digital Forensics - Stenography App\obj\Release\Digital Forensics - Steganography App.exe
+C:\Users\Zac Boot\documents\visual studio 2015\Projects\Digital Forensics - Stenography App\Digital Forensics - Stenography App\obj\Release\Digital Forensics - Steganography App.pdb
+C:\Users\Zac Boot\documents\visual studio 2015\Projects\Digital Forensics - Stenography App\Digital Forensics - Stenography App\obj\Release\Digital Forensics - Stenography App.csprojResolveAssemblyReference.cache
